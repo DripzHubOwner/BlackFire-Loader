@@ -1,3 +1,5 @@
+local PlaceId = game.PlaceId
+
 if game.PlaceId == 5712833750 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/DripzHubOwner/BlackFire-Hub/main/BlackFire%20Hub"))()
     return
